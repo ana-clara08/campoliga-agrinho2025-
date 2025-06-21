@@ -1,4 +1,3 @@
-
 <p align="center">
   <strong>🌱 CAMPOLIGA: CONECTANDO CAMPO E CIDADE 🌱</strong>
 </p>
@@ -34,7 +33,6 @@
 - **Linguagem:** JavaScript
 - **Biblioteca:** p5.js
 - **Design:** HTML5 + CSS3
-- **Plataforma:** Web (PC e mobile)
 
 ---
 
@@ -44,14 +42,14 @@
 
 **Imagens:**
 - Personagens criados com IA (ChatGPT DALL-E)
-- Elementos gráficos editados no Canva
+- Elementos gráficos editados e criados no Canva (DALL-E)
 
 **Sons:**
-- Trilha sonora gerada no Suno AI
-- Efeitos sonoros de bancas gratuitas
+- Trilha sonora gerada no Suno AI lera autoria própria
+- Efeitos sonoros de bancas gratuitas (https://pixabay.com/pt/sound-effects/)
 
 **Textos:**
-- Diálogos e roteiro originais
+- Diálogos e roteiro autoria própria
 - Fonte Open Sans (Google Fonts)
 
 ---
@@ -62,8 +60,8 @@
 
 1. Colete garrafas PET na cidade
 2. Leve para o campo
-3. Plante e colha alimentos
-4. Complete as fases!
+3. Colha alimentos
+4. Festeje a a união!
 
 <p align="center">
   <a href="https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM">
@@ -91,5 +89,5 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvido com ❤️ por [Seu Nome]</em>
+  <em>Desenvolvido com ❤️ por Ana Calara</em>
 </p>
