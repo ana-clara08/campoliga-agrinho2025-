@@ -1,91 +1,95 @@
-🌱 Campoliga: Conectando Campo e Cidade
-Jogo educativo desenvolvido para o Agrinho 2025, com o tema "Festejando a conexão campo-cidade".
-Uma experiência cooperativa que ensina sustentabilidade através da reciclagem e agricultura.
 
-🕹️ Como Jogar
-1️⃣ Recicle lixo urbano (arraste garrafas PET com o mouse)
+<p align="center">
+  <strong>🌱 CAMPOLIGA: CONECTANDO CAMPO E CIDADE 🌱</strong>
+</p>
 
-✅ +2 pontos por garrafa coletada
+<p align="center">
+  <strong>Jogo educativo desenvolvido para o Agrinho 2025</strong><br>
+  <em>Tema: "Festejando a conexão campo-cidade"</em>
+</p>
 
-❌ -1 ponto se pegar outros materiais (ex: plástico não reciclável)
+---
 
-� Meta: 10 pontos para avançar à próxima fase!
+<p align="center">
+  <strong>🎮 SOBRE O JOGO</strong>
+</p>
 
-2️⃣ Transporte para o campo
+**Campoliga** é um jogo cooperativo onde você:
+- ♻️ **Recicla** lixo urbano (como garrafas PET)
+- 🚚 **Transporta** para o campo
+- 🌱 **Planta** e colhe alimentos
+- 🎉 **Celebra** a conexão sustentável
 
-🚜 Use o caminhão para converter garrafas em vasos sustentáveis.
+<p align="center">
+  <strong>✨ OBJETIVO PRINCIPAL ✨</strong><br>
+  Mostrar como a cooperação entre cidade e campo pode transformar comunidades!
+</p>
 
-3️⃣ Colha alimentos frescos
+---
 
-🥕 Clique e arraste para coletar legumes/verduras.
+<p align="center">
+  <strong>🛠 TECNOLOGIAS UTILIZADAS</strong>
+</p>
 
-4️⃣ Celebre!
+- **Linguagem:** JavaScript
+- **Biblioteca:** p5.js
+- **Design:** HTML5 + CSS3
+- **Plataforma:** Web (PC e mobile)
 
-🎉 Desbloqueie a festa ao completar fases, mostrando a harmonia campo-cidade festejando a união.
+---
 
-Objetivo: Mostrar como a cooperação e a sustentabilidade podem transformar comunidades.
+<p align="center">
+  <strong>🎨 RECURSOS E FONTES</strong>
+</p>
 
-🛠 Tecnologias Utilizadas
-Linguagem: JavaScript
+**Imagens:**
+- Personagens criados com IA (ChatGPT DALL-E)
+- Elementos gráficos editados no Canva
 
-Biblioteca: p5.js (para gráficos e interatividade)
+**Sons:**
+- Trilha sonora gerada no Suno AI
+- Efeitos sonoros de bancas gratuitas
 
-Design: HTML5 + CSS3
+**Textos:**
+- Diálogos e roteiro originais
+- Fonte Open Sans (Google Fonts)
 
-Plataforma: Desenvolvido para web (PC e mobile)
+---
 
-🎨 Recursos e Fontes
-🖼️ Imagens
-Personagens e Cenários: Criados com IA (ChatGPT DALL-E)
+<p align="center">
+  <strong>🎯 COMO JOGAR</strong>
+</p>
 
-Prompt usado: "Desenho cartoon de uma menina rural com chapéu de palha, estilo educativo infantil, cores vibrantes"
+1. Colete garrafas PET na cidade
+2. Leve para o campo
+3. Plante e colha alimentos
+4. Complete as fases!
 
-Ícones e Elementos: Editados no Canva
+<p align="center">
+  <a href="https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM">
+    <strong>▶️ JOGUE AGORA ▶️</strong>
+  </a>
+</p>
 
-Logos:
+---
 
-Agrinho (oficial)
+<p align="center">
+  <strong>🙏 AGRADECIMENTOS</strong>
+</p>
 
-Colégio Estadual Antonio Tortato
+- Professora Patricia Ferro (orientadora)
+- Colégio Estadual Antonio Tortato
+- NRE Paranavaí
+- Secretaria de Educação do PR
+- SENAR e Agrinho 2025
 
-🎵 Sons e Músicas
-Trilha Sonora: Gerada no Suno AI letra auutoria ropria 
+---
 
-Prompt usado: "Música animada de fazenda, estilo infantil, alegre, com flauta e violão"
+<p align="center">
+  <strong>📜 LICENÇA</strong><br>
+  Projeto educacional - Livre para uso não comercial
+</p>
 
-Efeitos Sonoros:
-
-Sons de colheita e caminhão (biblioteca https://pixabay.com/pt/sound-effects/)
-
-📝 Textos e Diálogos
-Roteiro: Original (autoral)
-
-Fontes usadas: Google Fonts (Open Sans)
-
-🎯 Como Jogar
-Colete garrafas PET na cidade (arraste o mouse)
-
-Leve para o campo para quue sejam transformados em vasos
-
-Colha alimentos (clique e arraste)
-
-Complete as fases para desbloquear festas!
-
-🔗 Jogue agora: Link do Jogo
-
-🙏 Agradecimentos
-Orientadora: Prof.ª Patricia Ferro
-
-Colégio Estadual Antonio Tortato
-
-Núcleo Regional de Educação de Paranavaí
-
-Secretaria de Educação do Paraná
-
-SENAR-PR e Programa Agrinho 2025
-
-📜 Licença
-Projeto educacional, livre para uso não comercial.
-Desenvolvido com 💚 por ANA Clara
-
-✨ Junte-se a nós nessa jornada sustentável! 🌍🚜
+<p align="center">
+  <em>Desenvolvido com ❤️ por [Seu Nome]</em>
+</p>
