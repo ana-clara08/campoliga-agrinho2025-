@@ -47,7 +47,7 @@
 
 4️⃣ **Celebre!**
 
-🎉 Desbloqueie a festa ao completar fases, mostrando a harmonia campo-cidade.
+🎉 Desbloqueie a festa ao completar fases, mostrando a festa da união campo-cidade.
 
    ---
 
@@ -56,11 +56,12 @@
 </p>
 
 1. Acesse: [link](https://editor.p5js.org/ana.moura.oliveira15/full/zLvPpebSM)
-2. Clique em começar para iniciar
-3. Digite seu nome e pressione ENTER
-4. Clique no ▶️ (triângulo preto) para passar as falas
-5. Siga as instruções dos personagens
-6. Jogo tem o sistema de sons que você pode mutar o som quando quiser só clicar no 🎵 para desativá-lo
+2. Espere 2 segundinhos para renderizar
+3. Clique em começar para iniciar
+4. Digite seu nome e pressione ENTER
+5. Clique no ▶️ (triângulo preto) para passar as falas
+6. Siga as instruções dos personagens
+7. Jogo tem o sistema de sons que você pode mutar o som quando quiser só clicar no 🎵 para desativá-lo
 
 
 ---
