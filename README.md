@@ -61,9 +61,6 @@
 4. Clique no ▶️ (triângulo preto) para passar as falas
 5. Siga as instruções dos personagens
 
-<p align="center">
-  <img src="https://via.placeholder.com/400x200?text=Tela+Inicial+Campoliga" alt="Tela inicial do jogo" width="300">
-</p>
 
 ---
 
