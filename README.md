@@ -60,6 +60,7 @@
 3. Digite seu nome e pressione ENTER
 4. Clique no ▶️ (triângulo preto) para passar as falas
 5. Siga as instruções dos personagens
+6. jogo tem o sistema de sons que você pode mutar o som quando quiser só clicar no 🎵 para desativá-lo
 
 
 ---
