@@ -13,15 +13,56 @@
   <strong>🎮 SOBRE O JOGO</strong>
 </p>
 
-**Campoliga** é um jogo cooperativo onde você:
-- ♻️ **Recicla** lixo urbano (como garrafas PET)
+**Campoliga** é um jogo cooperativo com história envolvente onde você:
+- ♻️ **Recicla** lixo urbano ( garrafas PET)
 - 🚚 **Transporta** para o campo
 - 🌱 **Planta** e colhe alimentos
-- 🎉 **Celebra** a conexão sustentável
+- 🎉 **Festeja** a conexão sustentável
 
 <p align="center">
   <strong>✨ OBJETIVO PRINCIPAL ✨</strong><br>
   Mostrar como a cooperação entre cidade e campo pode transformar comunidades!
+</p>
+
+---
+<p align="center">
+  <strong>🎯 COMO JOGAR</strong>
+</p>
+
+**Recicle lixo urbano** (arraste garrafas PET com o mouse)
+
+✅ **+2 pontos** por garrafa coletada
+
+❌ **-1 ponto** se pegar outros materiais (ex: plástico não reciclável)
+
+� **Meta:** 10 pontos para avançar à próxima fase!
+
+2️⃣ **Transporte para o campo**
+
+🚜 O caminhão irá levar as garrafas pet para o campo e assim joaquim irá converter as garrafas em vasos sustentáveis.
+
+3️⃣ **Colha alimentos frescos**
+
+🥕 Clique e arraste para coletar verduras.
+
+4️⃣ **Celebre!**
+
+🎉 Desbloqueie festas ao completar fases, mostrando a harmonia campo-cidade.
+
+   ---
+
+<p align="center">
+  <strong>🚀 COMEÇE A JOGAR</strong>
+</p>
+
+1. Acesse: [https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM](https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM)
+2. Clique em começar para iniciar
+3. Digite seu nome e pressione ENTER
+4. Clique no ▶️ (triângulo preto) para passar as falas
+5. Siga as instruções dos personagens
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x200?text=Tela+Inicial+Campoliga" alt="Tela inicial do jogo" width="300">
 </p>
 
 ---
@@ -45,29 +86,12 @@
 - Elementos gráficos editados e criados no Canva (DALL-E)
 
 **Sons:**
-- Trilha sonora gerada no Suno AI lera autoria própria
-- Efeitos sonoros de bancas gratuitas (https://pixabay.com/pt/sound-effects/)
+- Trilha sonora gerada no Suno AI (letra autoria própria)
+- Efeitos sonoros de bancas gratuitas ([Pixabay](https://pixabay.com/pt/sound-effects/))
 
 **Textos:**
 - Diálogos e roteiro autoria própria
-- Fonte Open Sans (Google Fonts)
-
----
-
-<p align="center">
-  <strong>🎯 COMO JOGAR</strong>
-</p>
-
-1. Colete garrafas PET na cidade
-2. Leve para o campo
-3. Colha alimentos
-4. Festeje a a união!
-
-<p align="center">
-  <a href="https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM">
-    <strong>▶️ JOGUE AGORA ▶️</strong>
-  </a>
-</p>
+- Fonte Open Sans ([Google Fonts](https://fonts.google.com/specimen/Open+Sans))
 
 ---
 
@@ -89,5 +113,5 @@
 </p>
 
 <p align="center">
-  <em>Desenvolvido com ❤️ por Ana Calara</em>
+  <em>Desenvolvido com ❤️ por Ana Clara</em>
 </p>
