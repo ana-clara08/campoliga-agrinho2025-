@@ -16,8 +16,8 @@
 **Campoliga** é um jogo cooperativo com história envolvente onde você:
 - ♻️ **Recicla** lixo urbano ( garrafas PET)
 - 🚚 **Transporta** para o campo
-- 🌱 **Planta** e colhe alimentos
-- 🎉 **Festeja** a conexão sustentável
+- 🌱 **colhe** alimentos planados dos atos de reciclagem
+- 🎉 **Festeja** a conexão sustentável entre o campo e cidade
 
 <p align="center">
   <strong>✨ OBJETIVO PRINCIPAL ✨</strong><br>
@@ -97,8 +97,8 @@
   <strong>🙏 AGRADECIMENTOS</strong>
 </p>
 
-- Professora Patricia Ferro (orientadora)
-- Colégio Estadual Antonio Tortato
+- Professora Patrícia Ferro (orientadora)
+- Colégio Estadual Antonio Tortato 
 - NRE Paranavaí
 - Secretaria de Educação do PR
 - SENAR e Agrinho 2025
