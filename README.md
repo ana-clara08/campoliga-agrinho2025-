@@ -55,7 +55,7 @@
   <strong>🚀 COMEÇE A JOGAR</strong>
 </p>
 
-1. Acesse: [https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM](https://editor.p5js.org/ana.moura.oliveira15/sketches/zLvPpebSM)
+1. Acesse: [link](https://editor.p5js.org/ana.moura.oliveira15/full/zLvPpebSM)
 2. Clique em começar para iniciar
 3. Digite seu nome e pressione ENTER
 4. Clique no ▶️ (triângulo preto) para passar as falas
