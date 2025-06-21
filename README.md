@@ -47,7 +47,7 @@
 
 4️⃣ **Celebre!**
 
-🎉 Desbloqueie festas ao completar fases, mostrando a harmonia campo-cidade.
+🎉 Desbloqueie a festa ao completar fases, mostrando a harmonia campo-cidade.
 
    ---
 
